@@ -1,0 +1,170 @@
+[
+    {
+        "peoples" : [
+            {   
+                "id" : "1",
+                "name" : "Apollo",
+                "pathName" : "apollo",
+                "description" : "ပေါ်ပင်ကောင်",
+                "image" : [
+                    "https://i.postimg.cc/vmT26m1q/apollo-Two.avif",
+                    "https://i.postimg.cc/fRBgLdbS/apollo-One.avif",
+                    "https://i.postimg.cc/5268BQ3C/IMG-9487.jpg"
+                ]
+           },
+           {    
+                "id" :"2",
+                "name" : "Kyaw Wai Yan Phyo",
+                "pathName" : "kyawwainyanphyo",
+                "description" : "Hyper လူလိမ်ကောင်",
+                "image" : [
+                    "https://i.postimg.cc/hv27xKQs/kyawaiyanphyo-Six.jpg",
+                    "https://i.postimg.cc/PfyD0QVD/kyawwaiyanphyo-Four.jpg",
+                    "https://i.postimg.cc/8zJrJQpd/kyawwaiyanphyo-Five.jpg"
+        
+                ]
+           },
+           
+           {    
+                "id": "3",
+                "name" : "Kyaw Wai Yan Thin",
+                "pathName" : "kyawwaiyanthin",
+                "description" : "ဟိုစော်လဲဘူးဒီစော်လဲဘူး(Rinndiအချစ်တော်)",
+                "image" : [
+                    "https://i.postimg.cc/nLqj24QC/kyawthin-Six.jpg",
+                    "https://i.postimg.cc/QtsByFpS/couple-Four.jpg",
+                    "https://i.postimg.cc/0jXbjZhH/kyawthin-Two.jpg"
+                ]
+          },
+          {
+            "id" : "4",
+            "name" : "Moe Z",
+            "pathName" : "moez",
+            "description" : "ထူးအိမ်သင်းလောက် စကားထဲထည့်မပြောတဲ့(musician တတ်ကာမိုး)",
+            "image" : [
+                "https://i.postimg.cc/pT4dtyjg/moezOne.jpg",
+                "https://i.postimg.cc/DZ8zD1Sr/moez-Three.jpg",
+                "https://i.postimg.cc/0NtQcVy5/moezTwo.jpg"
+            ]
+         },
+         {  
+            "id" : "5",
+            "name" : "Rinndi",
+            "pathName" : "rinndi",
+            "description" : "(Thin Thin မိန်းမ)",
+            "image" : [
+                "https://i.postimg.cc/vBgQXMKX/couple-Two.jpg",
+                "https://i.postimg.cc/Kz6mHwSb/IMG-9503.jpg",
+                "https://i.postimg.cc/MGr6yX9v/rinndi-One.jpg"
+            ]
+         },
+         {
+            "id": "6",
+            "name" : "Tuffy",
+            "pathName" : "tuffy",
+            "description" : "Di*k အကြီးဆုံးကောင်",
+            "image" : [
+                "https://i.postimg.cc/fR8DNJnB/IMG-9489.jpg",
+                "https://i.postimg.cc/ZKFJwwfk/tuffy-Three.jpg",
+                "https://i.postimg.cc/0ykPF73z/tuffyTwo.jpg"
+            ]
+         },
+         {  
+            "id": "7",
+            "name" : "Su Zar Aung",
+            "pathName" : "suzaraung",
+            "description" : "အသေးဆုံးနဲ့ အစွာဆုံး",
+            "image" : [
+                "https://i.postimg.cc/x8VSRmMT/IMG-9491.jpg",
+                "https://i.postimg.cc/XJCbdLZz/suzarOne.jpg",
+                "https://i.postimg.cc/ZqgmW2qN/suzarTwo.jpg"
+            ]
+         },
+         {
+            "id":"8",
+            "name" : "Nyi Zay Aung",
+            "pathName" : "nyizayaung",
+            "description" : "စောက်ကုလား",
+            "image" : [
+                "https://i.postimg.cc/hPgBQ9K2/IMG-9493.jpg",
+                "https://i.postimg.cc/xjLQdsVk/nyizay-One.jpg",
+                "https://i.postimg.cc/5ygkCQmr/nyizay-Two.jpg"
+            ]
+         },
+         {  
+            "id": "9",
+            "name" : "Sanda ku",
+            "pathName" : "sandaku",
+            "description" : "Big Forehead",
+            "image" : [
+                "https://i.postimg.cc/dtJbVw9X/sadaku-Five.jpg",
+                "https://i.postimg.cc/nrJ67JfX/sandaku-Four.jpg",
+                "https://i.postimg.cc/NFkZkzQp/sandaku-One.jpg",
+                "https://i.postimg.cc/85W2jC98/sandaku-Three.jpg",
+                "https://i.postimg.cc/RC1rmNwK/sandaku-Two.jpg"
+            ]
+         },
+         {
+            "id" : "10",
+            "name" : "Ki Ki",
+            "pathName" : "kiki",
+            "description" : "Enix ပစ်သွားတဲ့ကောင်လေးလား?",
+            "image" : [
+                "https://i.postimg.cc/3NYcNF2p/kikiOne.jpg",
+                "https://i.postimg.cc/4dz0XSHs/kiki-Three.jpg",
+                "https://i.postimg.cc/0Qg3RsQV/kikiTwo.jpg"
+            ]
+         },
+         {
+            "id" : "11",
+            "name" : "Felix",
+            "pathName" : "felix",
+            "description" : "ဂြိုလ်သားကြီး",
+            "image" : [
+                "https://i.postimg.cc/VL7VsMvr/IMG-9480.jpg"
+            ]
+         },
+         {
+            "id" : "12",
+            "name" : "Chiyo",
+            "pathName" : "chiyo",
+            "description" : "Very Sexy Baka ကြီး",
+            "image" : [
+                "https://i.postimg.cc/YChyv9LX/IMG-9486.jpg"
+            ]
+         },
+         {
+            "id": "13",
+            "name" : "Chinese Couple 2 Kaung",
+            "pathName" : "chinesecouple",
+            "description" : "အရမ်းချစ်အရမ်းroပြ မျက်စိနောက်လာပြီ",
+            "image" : [
+                "https://i.postimg.cc/QtsByFpS/couple-Four.jpg",
+                "https://i.postimg.cc/vBgQXMKX/couple-Two.jpg",
+                "https://i.postimg.cc/NGDNbT1J/couple-One.jpg",
+                "https://i.postimg.cc/SNKgPsdy/couple-Three.jpg"
+            ]
+         },
+         {
+            "id": "14",
+            "name" : "Phoo Sint Wai",
+            "pathName" : "phoosintwai",
+            "description" : "Bunny Gyi",
+            "image" : [
+                "https://i.postimg.cc/BQwmf072/bunnyOne.jpg",
+                "https://i.postimg.cc/MpMdWFgN/BunnyTwo.jpg"
+            ]
+         },
+         {
+            "id": "15",
+            "name" : "Htet Aung Khat(Tylor)",
+            "pathName" : "htetaungkhat",
+            "description" : "ရှိတဲ့ တရုတ်မတွေအကုန်လိုက်ဝိုက်",
+            "image" : [
+                "https://i.postimg.cc/Y0ddd4sm/tylorOne.jpg",
+                "https://i.postimg.cc/RCdpS8ZV/tylor-Three.jpg"
+            ]
+         }
+        ]
+    }
+]
